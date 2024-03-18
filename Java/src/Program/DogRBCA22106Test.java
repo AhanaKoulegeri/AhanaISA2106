@@ -40,7 +40,7 @@ public class DogRBCA22106Test {
 	        dog2.setName("Bella");
 	        dog2.setBreed("Beagle");
 
-	        // Test the updated values
+	       
 	        assertEquals("Rocky", dog1.getName());
 	        assertEquals("Golden Retriever", dog1.getBreed());
 
